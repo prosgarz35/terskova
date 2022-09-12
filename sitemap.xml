@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://terskova.pages.dev/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://terskova.tk/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://terskova.pages.dev/</loc>
+<loc>https://terskova.tk/</loc>
 </url>
 <url>
-<loc>https://terskova.pages.dev/about.html</loc>
+<loc>https://terskova.tk/about.html</loc>
 <lastmod>2022-09-08T10:36:03+07:00</lastmod>
 </url>
 <url>
-<loc>https://terskova.pages.dev/contacts.html</loc>
+<loc>https://terskova.tk/contacts.html</loc>
 <lastmod>2022-09-08T10:41:22+07:00</lastmod>
 </url>
 <url>
-<loc>https://terskova.pages.dev/ochen-dazhe.html</loc>
+<loc>https://terskova.tk/ochen-dazhe.html</loc>
 <lastmod>2022-09-08T10:43:20+07:00</lastmod>
 </url>
 <url>
-<loc>https://terskova.pages.dev/proba-pera.html</loc>
+<loc>https://terskova.tk/proba-pera.html</loc>
 <lastmod>2022-09-08T10:42:47+07:00</lastmod>
 </url>
 </urlset>
